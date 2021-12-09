@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1639088847 source:c:\recuperatorioparcial\recuperatorio912\cliente.c
+	"cliente.h"
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"encabezados.h"
+	"inputsValidados.h"
+	"menu.h"
+
+1639088894 c:\recuperatorioparcial\recuperatorio912\cliente.h
+
+1639086182 c:\recuperatorioparcial\recuperatorio912\encabezados.h
+
+1638712680 c:\recuperatorioparcial\recuperatorio912\inputsvalidados.h
+
+1639086039 c:\recuperatorioparcial\recuperatorio912\menu.h
+
+1638712698 source:c:\recuperatorioparcial\recuperatorio912\inputsvalidados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputsValidados.h"
+
+1639091577 source:c:\recuperatorioparcial\recuperatorio912\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"alquiler.h"
+	"operadores.h"
+	"inputsValidados.h"
+
+1639092413 c:\recuperatorioparcial\recuperatorio912\alquiler.h
+	"cliente.h"
+	"operadores.h"
+	"equipos.h"
+
+1639087385 source:c:\recuperatorioparcial\recuperatorio912\encabezados.c
+	"encabezados.h"
+	<stdio.h>
+	<stdlib.h>
+
+1639092476 source:c:\recuperatorioparcial\recuperatorio912\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"alquiler.h"
+	"cliente.h"
+	"equipos.h"
+	"menu.h"
+	"operadores.h"
+
+1639092430 source:c:\recuperatorioparcial\recuperatorio912\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"inputsValidados.h"
+
+1639091324 source:c:\recuperatorioparcial\recuperatorio912\equipos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"equipos.h"
+
+1639087416 c:\recuperatorioparcial\recuperatorio912\equipos.h
+
+1639089817 c:\recuperatorioparcial\recuperatorio912\operadores.h
+
